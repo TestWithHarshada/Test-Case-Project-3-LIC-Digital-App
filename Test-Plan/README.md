@@ -1,3 +1,4 @@
+    - Project Name - LIC DIGITAL APP
 1. Introduction  
    - We are testing the LIC app to check if login, registration, forgot password, and button functions are working properly.
 
