@@ -1,3 +1,5 @@
+    - Project Name - LIC DIGITAL APP
+   
 1. Login Functionality
    - User should be able to log in using OTP, User ID, or MPIN.
    - Error message should appear for invalid credentials.
