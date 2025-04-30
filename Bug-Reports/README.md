@@ -23,13 +23,13 @@
 
 
 
-    - 2. Bug 2: Forgot Password Link Issue
+    - 2. Bug 2: Forgot Password Link Issue.
       
 1. Field Details
 2. Bug ID - BUG-02
 
 3. Title.
-   - Forgot password gives error instead of sending reset instructions
+   - Forgot password gives error instead of sending reset instructions.
 
 4. Steps to Reproduce
     - Click on "Forgot Password" on Login Page
