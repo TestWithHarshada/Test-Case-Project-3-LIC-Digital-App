@@ -1,6 +1,6 @@
     Project Name :- LIC Digital App 
     
-   - 1. Bug 1: Login fails with Invalid Credentials
+  - 1. Bug 1: Login fails with Invalid Credentials
 1. Field Details
 2. Bug ID - BUG-01
 
@@ -23,7 +23,7 @@
 
 
 
-    - 2. Bug 2: Forgot Password Link Issue.
+   - 2. Bug 2: Forgot Password Link Issue.
       
 1. Field Details
 2. Bug ID - BUG-02
