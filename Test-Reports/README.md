@@ -1,4 +1,4 @@
-Project Name :- LIC Digital app 
+    - Project Name :- LIC DIGITAL APP 
 
 1. Title: Test Report for Login Module.
 
