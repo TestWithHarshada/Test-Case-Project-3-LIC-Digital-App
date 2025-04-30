@@ -21,7 +21,7 @@
    - Function check (features work or not)  
    - UI check (screen layout)  
    - Security check (logout properly)  
-  - Mobile compatibility check
+   - Mobile compatibility check
 
 6. Test Scenarios  
 1.  Login with OTP, User ID, MPIN 
