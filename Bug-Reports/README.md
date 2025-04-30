@@ -1,4 +1,4 @@
-    Project Name :- LIC Digital App 
+    Project Name :- LIC DIGITAL APP 
     
   - 1. Bug 1: Login fails with Invalid Credentials
 1. Field Details
